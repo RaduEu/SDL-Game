@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1481571668 source:/home/radu/Desktop/Game/GAME/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<stdio.h>
+	"include/game.h"
+
+1480346394 /home/radu/Desktop/Game/GAME/include/game.h
+	"gameobject.h"
+
+1480185500 /home/radu/Desktop/Game/GAME/include/entity.h
+	"game.h"
+
+1480346675 /home/radu/Desktop/Game/GAME/include/physics.h
+	"collider.h"
+
+1481309079 /home/radu/Desktop/Game/GAME/include/gameobject.h
+	"sprite.h"
+	"rigidbody.h"
+	"collider.h"
+	"physics.h"
+
+1481309859 /home/radu/Desktop/Game/GAME/include/sprite.h
+	<SDL2/SDL.h>
+
+1480345460 /home/radu/Desktop/Game/GAME/include/rigidbody.h
+
+1480346090 /home/radu/Desktop/Game/GAME/include/collider.h
+
